@@ -1,5 +1,5 @@
 import { component$ } from "@builder.io/qwik";
-import { Link, type DocumentHead } from "@builder.io/qwik-city";
+import { Link } from "@builder.io/qwik-city";
 import { HiArrowRightOutline } from "@qwikest/icons/heroicons";
 import styles from "./home.module.css";
 
